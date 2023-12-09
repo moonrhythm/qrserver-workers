@@ -7,7 +7,7 @@
     "start": "wrangler dev"
   },
   "devDependencies": {
-    "wrangler": "^3.0.0"
+    "wrangler": "^3.19.0"
   },
   "dependencies": {
     "qr-image": "^3.2.0"
